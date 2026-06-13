@@ -13,7 +13,7 @@
   <p>
     <i><code>"Control can sometimes be an illusion. But when you find the vulnerability, you find the control."</code></i>
     <br>
-    <sub>— <b>N_!4N0_0d4Y</b></sub>
+    <sub>— <b><i>Mr R0b0t<i></b></sub>
   </p>
 
 </div>
