@@ -1,5 +1,16 @@
 <div align="center">
 
+  <!-- BIG AUDIO VISUALIZER — FIRST THING PEOPLE SEE -->
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX1iZ7iWfNJPz" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J0dHRiM2FkbmZ1bWkwaWswa3BqY3E1dGZ1dGZ1dGZ1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzrg8Uo/giphy.gif" width="100%" alt="Audio Visualizer" />
+  </a>
+
+  <br>
+
+  <sub>🔊 <i>Click the visualizer to open Mr. Robot OST on Spotify</i></sub>
+
+  <br><br>
+
   <a href="https://n14n0-0d4y.netlify.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Initializing+secure+connection...;Bypassing+mainframe...;Welcome+to+N_!4N0_0d4Y's+Terminal.;We+are+finally+awake." alt="Typing" />
   </a>
@@ -33,20 +44,6 @@
   <a href="https://hackthebox.com/" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF00" />
   </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX1iZ7iWfNJPz" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J0dHRiM2FkbmZ1bWkwaWswa3BqY3E1dGZ1dGZ1dGZ1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzrg8Uo/giphy.gif" width="100%" alt="Audio Visualizer" />
-  </a>
-
-  <br>
-
-  <sub>🔊 <i>Click the visualizer to open Mr. Robot OST on Spotify</i></sub>
 
 </div>
 
